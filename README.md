@@ -11,6 +11,5 @@ This project focuses on Exploratory Testing performed on the https://timex.com/ 
  - Shopping Cart: Adding/removing products and verifying cart totals.
 
 ### Defects Found:
-Below is a summary of the bugs identified during the exploratory testing session and reported on Zephyr Scale:
-
-![alt text]
+Below is a summary of the bugs identified during the exploratory testing session and reported on the Zephyr Scale:
+![alt text](https://github.com/fpfernandes/exploratorytesting/blob/main/issuetable.png)
