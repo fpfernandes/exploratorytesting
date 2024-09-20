@@ -13,6 +13,7 @@ The testing covered the following areas of the e-commerce website:
 
 ## Defects Found:
 * Below is a summary of the bugs identified during the exploratory testing session and reported on the Zephyr Scale:
+  
 ![alt text](https://github.com/fpfernandes/exploratorytesting/blob/main/issuetable.png)
 
 ## Defect Reports:
@@ -25,7 +26,7 @@ The testing covered the following areas of the e-commerce website:
 - Severity
 - Status
 - Screenshots/Attachments
-This project was done in June/2024, so the defects found are expected to be fixed. This link has all the video reproductions of the defects on the date of the project:
+This project was done in June/2024, so the defects found are expected to be fixed. This link has all the video reproductions of the defects on the date of the project: [Visit Link](https://drive.google.com/drive/folders/1SwrkXnmdU-8a4mHVKeWK4VPgu9mSKXw8?usp=sharing)
 
 ### Defect reports on the Zephyr Scale:
 
