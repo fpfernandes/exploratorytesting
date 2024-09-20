@@ -1,15 +1,15 @@
 # Exploratory Testing on E-commerce Website
 
 ## Project Overview:
-This project focuses on Exploratory Testing performed on the https://timex.com/ website to uncover potential issues in the functionality, user experience, and performance of the system. The goal of this testing session was to simulate real user behavior, identify bugs, and evaluate the overall user journey from product selection to checkout.
+This project focuses on Exploratory Testing performed on the https://timex.com/ website to uncover potential issues in the system's functionality, user experience, and performance. This testing session aimed to simulate user behaviour, identify bugs, and evaluate the overall user journey from product selection to checkout.
 
 ## Test Strategy:
-* The testing covered the following areas of the e-commerce website:
- Homepage and Navigation: Verifying page load times, responsiveness, and the correct rendering of elements across devices.
- Product Search and Filters: Ensuring search functionality works as expected and filters correctly refine search results.
- Product Pages: Checking for correct pricing, availability, and accurate descriptions.
- Shopping Cart: Adding/removing products and verifying cart totals.
- Out of Scope: Partner and External websites. 
+The testing covered the following areas of the e-commerce website:
+- Homepage and Navigation: Verifying page load times, responsiveness, and the correct rendering of elements across devices.
+- Product Search and Filters: Ensuring search functionality works as expected and filters correctly refine search results.
+- Product Pages: Checking for correct pricing, availability, and accurate descriptions.
+- Shopping Cart: Adding/removing products and verifying cart totals.
+- Out of Scope: Partner and External websites. 
 
 ## Defects Found:
 * Below is a summary of the bugs identified during the exploratory testing session and reported on the Zephyr Scale:
@@ -25,9 +25,9 @@ This project focuses on Exploratory Testing performed on the https://timex.com/ 
 - Severity
 - Status
 - Screenshots/Attachments
-This project was done in June/2024, so the defects found are expected to be already fixed. This link has all the video reproductions of the defects on the date of the project:
+This project was done in June/2024, so the defects found are expected to be fixed. This link has all the video reproductions of the defects on the date of the project:
 
-### Defect reports on Zephyr Scale:
+### Defect reports on the Zephyr Scale:
 
 
 
